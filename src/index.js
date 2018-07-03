@@ -1,3 +1,5 @@
+alert('are we connected?');
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';

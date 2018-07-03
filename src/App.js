@@ -33,7 +33,7 @@ class App extends Component {
       </div>
     </nav>
 
-    <header className="masthead">
+    <header className="masthead" styles="background-image: url('img/home-bg.jpg')">
       <div className="overlay"></div>
       <div className="container">
         <div className="row">
